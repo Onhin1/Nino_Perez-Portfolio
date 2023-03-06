@@ -454,13 +454,15 @@ section {
 }
 
 .works .carousel .card a {
-  background-color: #333;
+  background-color: #00ad96;
+  width: 100%;
   color: #fff;
   font-size: 18px;
   font-weight: 500;
   margin: 10px 0 7px 0;
 }
 .works .carousel .card a:hover {
+  background-color: #333;
   text-decoration: 2px underline #fff;
 }
 
