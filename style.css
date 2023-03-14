@@ -409,7 +409,7 @@ section {
 }
 
 .skills-content .right .css::before {
-  width: 90%;
+  width: 80%;
 }
 
 .skills-content .right .js::before {
@@ -417,14 +417,14 @@ section {
 }
 
 .skills-content .right .php::before {
-  width: 70%;
+  width: 60%;
 }
 
 .skills-content .right .mysql::before {
   width: 70%;
 }
 .skills-content .right .python::before {
-  width: 70%;
+  width: 60%;
 }
 .skills-content .right .wp::before {
   width: 70%;
