@@ -405,25 +405,33 @@ section {
 }
 
 .skills-content .right .html::before {
-  width: 80%;
+  width: 90%;
 }
 
 .skills-content .right .css::before {
-  width: 70%;
+  width: 80%;
 }
 
 .skills-content .right .js::before {
-  width: 60%;
+  width: 70%;
 }
 
 .skills-content .right .php::before {
-  width: 60%;
+  width: 70%;
 }
 
 .skills-content .right .mysql::before {
+  width: 70%;
+}
+.skills-content .right .python::before {
   width: 60%;
 }
-
+.skills-content .right .wp::before {
+  width: 70%;
+}
+.skills-content .right .shopify::before {
+  width: 70%;
+}
 /* works section styling */
 .works .title::after {
   content: "what i made";
