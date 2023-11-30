@@ -554,10 +554,12 @@ section {
   font-weight: 500;
 }
 
-.contact .contact-content .info {
+.contact .contact-content .info  {
   color: #fff;
 }
-
+contact .contact-content .info .sub-title {
+  color: #000;
+}
 .contact .right form .fields {
   display: flex;
 }
