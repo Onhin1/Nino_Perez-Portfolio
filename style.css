@@ -477,7 +477,7 @@ section {
 .works .carousel .card img {
   height: 155px;
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   object-fit: contain;
   border: 5px solid #00ad96;
   transition: all 0.3s ease;
