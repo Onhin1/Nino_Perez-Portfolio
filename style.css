@@ -143,8 +143,8 @@ html {
 
 .home .home-content a {
   display: inline-block;
-  background: #00ad96;
-  color: #fff;
+  background: #fff;
+  color: #04ad96;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
@@ -154,7 +154,7 @@ html {
 }
 
 .home .home-content a:hover {
-  color: #00ad96;
+  color: #fff;
   background: none;
 }
 
