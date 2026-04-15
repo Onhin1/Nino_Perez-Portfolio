@@ -438,6 +438,8 @@ section {
 }
 
 .works .carousel .card {
+  width: 100%;
+  height: auto;
   background: #333;
   border-radius: 6px;
   padding: 20px;
